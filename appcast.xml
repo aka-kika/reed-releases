@@ -1,0 +1,37 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Reed</title>
+        <item>
+            <title>1.4.3</title>
+            <pubDate>Sun, 06 Sep 2026 15:56:50 +0300</pubDate>
+            <sparkle:version>43</sparkle:version>
+            <sparkle:shortVersionString>1.4.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/aka-kika/reed-releases/releases/download/v1.4.3/Reed-1.4.3.dmg" length="11587199" type="application/octet-stream" sparkle:edSignature="xJQGytNzGUZXLG4HLvUl8ka3KfJengo1mgaU8vVF/UvIBoDQT3QOsFq1+P1vYWNMd0mIF2AC33vhy1nOPs3KDg=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/aka-kika/reed-releases/releases/download/v1.4.3/Reed43-42.delta" sparkle:deltaFrom="42" length="841178" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="ZvPG05sCRMnZj7IZ1klIrFVSu/YMOThV2DOhIy2VQWuD2DXl6NyCsmGG64jgOBnkVtENMQ9/BEk6zRlZseUPCw=="/>
+                <enclosure url="https://github.com/aka-kika/reed-releases/releases/download/v1.4.3/Reed43-41.delta" sparkle:deltaFrom="41" length="1006278" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="cymm9tVTPtlrswVMJu74WRQXxinDDODnnMcCLsRgJ1s1UUt1XDt5Smp2VGWjTufht8M+DPPbaY+hgEvbWBAGCg=="/>
+                <enclosure url="https://github.com/aka-kika/reed-releases/releases/download/v1.4.3/Reed43-40.delta" sparkle:deltaFrom="40" length="1033810" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="2ZZ3LQPO7yDQ0nzrebqlQBANC3dpljQtHngYjJhpTOKjlBp+ttvFU7B5GFjjt8lfv9Rm5wziPevTO+fRn/SEAg=="/>
+                <enclosure url="https://github.com/aka-kika/reed-releases/releases/download/v1.4.3/Reed43-39.delta" sparkle:deltaFrom="39" length="1131718" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="CGSmg+RZz3/Fotm8jS7EUl96SMQkXrzZFp6uTZRkR37dfUUzbL7Lcne0hsgdKvTn6MmpQngoY42UegQipcJMDQ=="/>
+                <enclosure url="https://github.com/aka-kika/reed-releases/releases/download/v1.4.3/Reed43-38.delta" sparkle:deltaFrom="38" length="1211458" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="+OvvQqSMM3ziF9p1pWpOn0j718IH74/XYcDXZ2awhqpxA/FpokLfQStzHdH/yw09enHmT9/BcQQdKmCSePeTCA=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
+            <title>1.4.2</title>
+            <pubDate>Sun, 06 Sep 2026 13:24:21 +0300</pubDate>
+            <sparkle:version>42</sparkle:version>
+            <sparkle:shortVersionString>1.4.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/aka-kika/reed-releases/releases/download/v1.4.2/Reed-1.4.2.dmg" length="11567769" type="application/octet-stream" sparkle:edSignature="UkSy+oMLwPYagDEToNJHzKlYcO/Y8+eXSCt/+dJvxh4VMC4DdC8gnpRI+76Ifv4pFxHY0blsqfxODMLeU5huDQ=="/>
+        </item>
+        <item>
+            <title>1.4.1</title>
+            <pubDate>Sun, 06 Sep 2026 11:22:29 +0300</pubDate>
+            <sparkle:version>41</sparkle:version>
+            <sparkle:shortVersionString>1.4.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/aka-kika/reed-releases/releases/download/v1.4.1/Reed-1.4.1.dmg" length="11528281" type="application/octet-stream" sparkle:edSignature="HGstskWvQh/FapEzUhI6dHactPRLtGD3/phbrxhU3SAdGuMg6mTVAwBdMUoBwAmVgcHqLSv63E5wwwjSMP6SDw=="/>
+        </item>
+    </channel>
+</rss>
