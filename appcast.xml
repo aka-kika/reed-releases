@@ -3,6 +3,21 @@
     <channel>
         <title>Reed</title>
         <item>
+            <title>1.4.4</title>
+            <pubDate>Sun, 06 Sep 2026 18:25:40 +0300</pubDate>
+            <sparkle:version>44</sparkle:version>
+            <sparkle:shortVersionString>1.4.4</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/aka-kika/reed-releases/releases/download/v1.4.4/Reed-1.4.4.dmg" length="11593967" type="application/octet-stream" sparkle:edSignature="4yIgfE6/JjfHEyz9TZFK5xN42CKCSuDRJtb0B+yJAbhfZ028tIOABIfxnp3zl8sruT6bkLv7W3SjhCOYke7hBQ=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/aka-kika/reed-releases/releases/download/v1.4.4/Reed44-43.delta" sparkle:deltaFrom="43" length="945770" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="nBNz9rItGswprJ2C8E5noXP/r3pcAHt0sqZQAdcfVP1I6apHnMPmJ8hKF8Asf576/j9X+/FtQwpjI2SkfXadAg=="/>
+                <enclosure url="https://github.com/aka-kika/reed-releases/releases/download/v1.4.4/Reed44-42.delta" sparkle:deltaFrom="42" length="1035174" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="PCx9XS3GapX16oKvu99JxwikCRsVyS0MelI6MlM/IMZsb4UBWNiLVFDmSxVPB+v2WXqLtaz1xb00S5SYLFBEBg=="/>
+                <enclosure url="https://github.com/aka-kika/reed-releases/releases/download/v1.4.4/Reed44-41.delta" sparkle:deltaFrom="41" length="1090510" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="kWw2Pv3j88/o1f4/faS32F3Rt/rkvaWMUUapBKeA2WcaNMu3d1+cQylHOFG2MzhwgzcUpTPW16D3/rlaBvGqCw=="/>
+                <enclosure url="https://github.com/aka-kika/reed-releases/releases/download/v1.4.4/Reed44-40.delta" sparkle:deltaFrom="40" length="1139258" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="3OX5uigQi3BknxbActtGOqyeRvOmn7aBn3oSrtlu+wXi4m0dPWkWjGkrIIdEWNoL4zJZnN7s0j3GOZR6qgKMAA=="/>
+                <enclosure url="https://github.com/aka-kika/reed-releases/releases/download/v1.4.4/Reed44-39.delta" sparkle:deltaFrom="39" length="1209446" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="UIJ6is4yL1qyf9vxj6pboZpGNv6BuKNiGGSB+knBCYqWaS/MPvfcpRF41NU0aB8nu/khmVMKZAa445PDk5l0Aw=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.4.3</title>
             <pubDate>Sun, 06 Sep 2026 15:56:50 +0300</pubDate>
             <sparkle:version>43</sparkle:version>
@@ -24,14 +39,6 @@
             <sparkle:shortVersionString>1.4.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/aka-kika/reed-releases/releases/download/v1.4.2/Reed-1.4.2.dmg" length="11567769" type="application/octet-stream" sparkle:edSignature="UkSy+oMLwPYagDEToNJHzKlYcO/Y8+eXSCt/+dJvxh4VMC4DdC8gnpRI+76Ifv4pFxHY0blsqfxODMLeU5huDQ=="/>
-        </item>
-        <item>
-            <title>1.4.1</title>
-            <pubDate>Sun, 06 Sep 2026 11:22:29 +0300</pubDate>
-            <sparkle:version>41</sparkle:version>
-            <sparkle:shortVersionString>1.4.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/aka-kika/reed-releases/releases/download/v1.4.1/Reed-1.4.1.dmg" length="11528281" type="application/octet-stream" sparkle:edSignature="HGstskWvQh/FapEzUhI6dHactPRLtGD3/phbrxhU3SAdGuMg6mTVAwBdMUoBwAmVgcHqLSv63E5wwwjSMP6SDw=="/>
         </item>
     </channel>
 </rss>
